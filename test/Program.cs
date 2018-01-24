@@ -8,7 +8,8 @@ namespace test
         {
             string test = "hello world";
             string test2 = test + "!!!";
-            Console.WriteLine(test2);
+            string test3 = test2 + "...";
+            Console.WriteLine(test3);
         }
     }
 }

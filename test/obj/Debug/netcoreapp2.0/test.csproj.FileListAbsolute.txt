@@ -1,0 +1,11 @@
+E:\台式机资料\C#\华为OJ系统题库\test\test\bin\Debug\netcoreapp2.0\test.deps.json
+E:\台式机资料\C#\华为OJ系统题库\test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+E:\台式机资料\C#\华为OJ系统题库\test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+E:\台式机资料\C#\华为OJ系统题库\test\test\bin\Debug\netcoreapp2.0\test.dll
+E:\台式机资料\C#\华为OJ系统题库\test\test\bin\Debug\netcoreapp2.0\test.pdb
+E:\台式机资料\C#\华为OJ系统题库\test\test\obj\Debug\netcoreapp2.0\test.csprojResolveAssemblyReference.cache
+E:\台式机资料\C#\华为OJ系统题库\test\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+E:\台式机资料\C#\华为OJ系统题库\test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+E:\台式机资料\C#\华为OJ系统题库\test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+E:\台式机资料\C#\华为OJ系统题库\test\test\obj\Debug\netcoreapp2.0\test.dll
+E:\台式机资料\C#\华为OJ系统题库\test\test\obj\Debug\netcoreapp2.0\test.pdb
