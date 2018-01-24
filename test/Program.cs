@@ -7,7 +7,8 @@ namespace test
         static void Main(string[] args)
         {
             string test = "hello world";
-            Console.WriteLine(test);
+            string test2 = test + "!!!";
+            Console.WriteLine(test2);
         }
     }
 }
